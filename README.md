@@ -29,7 +29,7 @@
 
 These are some of the major technologies that I use or have worked on in the past:
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="NUX_Octodex">
 
 **Programming Languages**
 <div>
