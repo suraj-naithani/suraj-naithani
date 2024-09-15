@@ -19,7 +19,7 @@
 
 ### 🧐 More About Me:
 
-- 📝 &nbsp; Check out my **[Resume](https://drive.google.com/file/d/1F7r0LIDsN5JAWnPH5CbwiQ4Dj2BOf2ja/view?usp=sharing)**
+- 📝 &nbsp; Check out my **[Resume](https://drive.google.com/file/d/1fEXMgBqNSwM9lU1_G1fC861g64u9loAB/view)**
 - 🔭 &nbsp; I’m currently working on **Online booking appointment web app**
 - 🌱 &nbsp; I’m currently learning Web socket.io 
 
