@@ -54,13 +54,15 @@ These are some of the major technologies that I use or have worked on in the pas
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" title="Node.Js" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo" title="Express.Js" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase logo" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo" title="Next.Js" />
+  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo" title="Next.Js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="nextjs logo" title="Nest.Js" />
 </div>&nbsp;
 
 **Databases**
 <div> 
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="32" alt="mysql logo" title="SQL" />
+  <img align='left' src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="32" alt="mysql logo" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="mysql logo" title="PostgreSQL" />
 </div>&nbsp;
 
 **Tools**
