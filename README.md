@@ -1,4 +1,4 @@
-[<img src="./banner.png" alt="👋 Hi there! I'm Suraj Naithani" title="👋 Hi there! I'm Suraj Naithani"/>](https://suraj-nathani.vercel.app/)
+[<img src="./banner.png" alt="👋 Hi there! I'm Suraj Naithani" title="👋 Hi there! I'm Suraj Naithani"/>](https://surajnaithani.vercel.app/)
 
 ###
 
