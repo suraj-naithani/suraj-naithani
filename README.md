@@ -20,8 +20,8 @@
 ### 🧐 More About Me:
 
 - 📝 &nbsp; Check out my **[Resume](https://drive.google.com/file/d/1fEXMgBqNSwM9lU1_G1fC861g64u9loAB/view)**
-- 🔭 &nbsp; I’m currently working on **Online booking appointment web app**
-- 🌱 &nbsp; I’m currently learning Web socket.io 
+- 🔭 &nbsp; I’m currently working on **Git-agent**
+- 🌱 &nbsp; I’m currently learning Generative ai 
 
 ###
 
