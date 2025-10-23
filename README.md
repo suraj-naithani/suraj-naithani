@@ -90,7 +90,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ## Let's Connect :handshake:
 
 <div>
-  <a href="https://www.linkedin.com/in/suraj-nathani/" target="_blank">
+  <a href="https://www.linkedin.com/in/surajnaithani31/" target="_blank">
    <img align='left' height="32" alt="linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" title="LinkedIn" /> 
   </a>
   <a href="https://x.com/SurajNathani318" target="_blank">
