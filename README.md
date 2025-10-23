@@ -6,16 +6,17 @@
 
 ###
 
-<p align="left">My name is Suraj Naithani and I'm a Full Stack Web Developer.</p>
+<p align="left">My name is Suraj Naithani and I'm a Full Stack Developer.</p>
 
-- <i>Currently:</i> MCA Student at Graphic Era Hill University in Dehradun. 
-- <i>Previously:</i> BCA Student at Graphic Era Hill University in Dehradun.
+- <i>Currently:</i> Full Stack Developer at <b>Excellence Technology</b>, Noida.
+- <i>Previously:</i> Pursued <b>MCA</b> at <b>Graphic Era Hill University</b>, Dehradun.
+- <i>Earlier:</i> Completed <b>BCA</b> at <b>Graphic Era Hill University</b>, Dehradun.
 
 ###
 
 ## About me⚡
 
-<p>I'm a versatile Full-Stack Web Developer and React Native Developer, skilled in creating dynamic web apps, secure management systems, and engaging mobile applications. Passionate about exploring new technologies, I leverage innovative stacks to build impactful solutions. I also enjoy playing chess, listening to music, and exploring nature outdoors.</p>
+<p>I'm a passionate Full Stack Developer skilled in building dynamic web applications, scalable backends, and efficient management systems. I love turning ideas into seamless digital experiences using modern technologies across the stack. Always eager to learn and innovate, I enjoy exploring new tools to craft impactful solutions. Outside of coding, I like playing chess, listening to music, and exploring nature.</p>
 
 ### 🧐 More About Me:
 
