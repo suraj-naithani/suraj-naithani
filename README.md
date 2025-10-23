@@ -51,24 +51,30 @@ These are some of the major technologies that I use or have worked on in the pas
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass logo" title="Sass" />
   <img align='left' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="32" alt="tailwindcss logo" title="Tailwind" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo" title="React" />
-  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux logo" title="Redux" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" title="Node.Js" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo" title="Express.Js" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase logo" title="Firebase" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo" title="Next.Js" />
+  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="fastapi" title="Fast-Api" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="nextjs logo" title="Nest.Js" />
 </div>&nbsp;
 
 **Databases**
 <div> 
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo" title="MongoDB" />
-  <img align='left' src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="32" alt="mysql logo" title="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="mysql logo" title="PostgreSQL" />
+  <img align='left' src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" height="32" alt="mysql logo" title="SQL" />
+  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="mysql logo" title="PostgreSQL" />
+  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" alt="redis" title="Redis" />
+  <img align='left' src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c" height="30" alt="neon" title="NeonDB" />
+  <img align='left' src="https://upstash.com/logo/upstash-icon-white-bg.png" height="30" alt="upstash" title="Upstash" />
+  <img src="https://s3.amazonaws.com/appforest_uf/f1679157815668x357855949495047500/io6cC6vZ_400x400.png" height="32" alt="pinecone" title="Pinecone" />
 </div>&nbsp;
 
 **Tools**
 <div> 
   <img align='left' src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="32" title="Postman"/>
+  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux logo" title="Redux" />
+  <img align='left' src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="32" alt="prisma" title="Prisma" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="32" title="Vscode"/>
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" title="Git" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo" title="GitHub" />
