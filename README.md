@@ -55,7 +55,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo" title="Express.Js" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase logo" title="Firebase" />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo" title="Next.Js" />
-  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="fastapi" title="Fast-Api" />
+  <!-- <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="fastapi" title="Fast-Api" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="nextjs logo" title="Nest.Js" />
 </div>&nbsp;
 
