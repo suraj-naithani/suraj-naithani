@@ -1,4 +1,4 @@
-[<img src="./banner.png" alt="👋 Hi there! I'm Suraj Naithani" title="👋 Hi there! I'm Suraj Naithani"/>](https://surajnaithani.vercel.app/)
+<!-- [<img src="./banner.png" alt="👋 Hi there! I'm Suraj Naithani" title="👋 Hi there! I'm Suraj Naithani"/>](https://surajnaithani.vercel.app/) -->
 
 ###
 
@@ -8,7 +8,7 @@
 
 <p align="left">My name is Suraj Naithani and I'm a Full Stack Developer.</p>
 
-- <i>Currently:</i> Full Stack Developer at <b>Excellence Technology</b>, Noida.
+<!-- - <i>Currently:</i> Full Stack Developer at <b>Excellence Technology</b>, Noida. -->
 - <i>Previously:</i> Pursued <b>MCA</b> at <b>Graphic Era Hill University</b>, Dehradun.
 - <i>Earlier:</i> Completed <b>BCA</b> at <b>Graphic Era Hill University</b>, Dehradun.
 
@@ -87,8 +87,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ###
 
+<!--
 ## Let's Connect :handshake:
-
 <div>
   <a href="https://www.linkedin.com/in/surajnaithani31/" target="_blank">
    <img align='left' height="32" alt="linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" title="LinkedIn" /> 
@@ -109,7 +109,7 @@ These are some of the major technologies that I use or have worked on in the pas
    <img height="32" alt="instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" title="Instagram"/>
   </a>
 </div>
-
+-->
 ###
 
  <!--- 
